@@ -1,6 +1,6 @@
 # My-Token-Faucet
 
-My first token faucet.
+My first token faucet. Existing contract can be found on Binance Smart Chain. The contract address is: `0xc1f5A34B47A8992E2209767cE00559e960dD957f`.
 
 ## How to deploy with Remix
 
