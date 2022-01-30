@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 contract MyTokenFaucet is ERC20 {
     using SafeMath for uint256;
 
-    // 10 MYT
+    // 10 MFT
     uint256 public constant DRIP = 10_000_000_000_000_000_000;
 
     mapping(address => uint256) public lockTime;
