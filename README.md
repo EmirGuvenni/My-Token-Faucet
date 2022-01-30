@@ -16,4 +16,4 @@ First, pull the project to your machine. Then run the remixd package with `remix
 
 Try using the `http` instead of `https` in your browser.
 
-Donations (Metamask): `0xa547c2Df0fE1f392a7Df9eB9A65A404f5270206f`
+Donations (MetaMask): `0xa547c2Df0fE1f392a7Df9eB9A65A404f5270206f`
