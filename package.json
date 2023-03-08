@@ -3,6 +3,6 @@
     "@openzeppelin/test-helpers": "^0.5.15"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.4.2"
+    "@openzeppelin/contracts": "^4.7.3"
   }
 }
